@@ -1,4 +1,7 @@
-[![Circle CI](https://circleci.com/gh/meteorhacks/meteord/tree/master.svg?style=svg)](https://circleci.com/gh/meteorhacks/meteord/tree/master)
+[![Circle CI](https://circleci.com/gh/fuww/meteord/tree/master.svg?style=svg)](https://circleci.com/gh/fuww/meteord/tree/master)
+
+[![](https://badge.imagelayers.io/fuww/meteord:base.svg)](https://imagelayers.io/?images=fuww/meteord:base 'Get your own badge on imagelayers.io')
+
 ## MeteorD - Docker Runtime for Meteor Apps
 
 There are two main ways you can use Docker with Meteor apps. They are:
