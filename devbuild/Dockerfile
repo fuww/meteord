@@ -1,4 +1,4 @@
-FROM abernix/meteord:base
+FROM fuww/meteord:base
 MAINTAINER Jesse Rosenberger
 
 ONBUILD RUN bash $METEORD_DIR/lib/install_meteor.sh

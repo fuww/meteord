@@ -1,5 +1,5 @@
 #!/bin/bash
-docker build -t abernix/meteord:base ../base
-docker build -t abernix/meteord:onbuild ../onbuild
-docker build -t abernix/meteord:devbuild ../devbuild
-docker build -t abernix/meteord:binbuild ../binbuild
+docker build -t fuww/meteord:base ../base
+docker build -t fuww/meteord:onbuild ../onbuild
+docker build -t fuww/meteord:devbuild ../devbuild
+docker build -t fuww/meteord:binbuild ../binbuild
