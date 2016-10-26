@@ -13,7 +13,7 @@ echo "=> Executing NPM install --production"
 meteor npm install --production
 
 echo "=> Executing Meteor Build..."
-meteor build --directory $BUNDLE_DIR --server=http://localhost:3000
+meteor build --unsafe-perm --directory $BUNDLE_DIR --server=http://localhost:3000
 
 echo "=> Printing Meteor Node information..."
 echo "  => platform"
