@@ -1,4 +1,4 @@
-set -e
+set -ex
 
 echo "54.192.225.217 warehouse.meteor.com" >> /etc/hosts
 

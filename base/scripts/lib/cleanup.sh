@@ -1,6 +1,6 @@
 ## Borrowed from: https://github.com/chriswessels/meteor-tupperware
 
-set -e
+set -ex
 # Autoremove any junk
 apt-get autoremove -y
 

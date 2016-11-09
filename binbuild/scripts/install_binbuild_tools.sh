@@ -1,4 +1,4 @@
-set -e
+set -ex
 # for npm module re-building
 apt-get -y install build-essential libssl-dev git python
 npm install -g node-gyp

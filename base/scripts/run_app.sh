@@ -1,4 +1,4 @@
-set -e
+set -ex
 
 if [ -d /bundle ]; then
   cd /bundle
